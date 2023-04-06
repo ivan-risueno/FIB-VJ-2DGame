@@ -1,0 +1,47 @@
+-----------------------------------------------------INTEGRANTS-------------------------------------------------
+Xavier Leonardo Diaz
+Iván Risueño Martín
+------------------------------------------FUNCIONALITATS IMPLEMENTADES------------------------------------------
+(tota la part bàsica + polish)
+- Estructura bàsica de 4 pantalles: menú principal, jugar, instruccions, crèdits.
+- Tres pantalles del joc. La tercera és una còpia en quant a mapa i mecàniques del nivell 28 del Night Knight.
+- Tres tipus d'enemics: l'esquelet, que va de dreta a esquerra; la bola, que s'arrossega per tot el mapa i
+torna a la seva posició inicial; i el vampir, que camina d'esquerra a dreta i quan es transforma vola en diagonal.
+- Quatre tipus d'objectes: la clau, que apareix quan trepitjes totes les tiles del mapa; l'stopwatch, que atura
+tots els enemics durant 3 segons; la gemma(l'sprite és un anell amb una esmeralda), que dóna 100 punts extra; i
+el cor, que dóna una vida extra.
+- Les punxes tenen aparença de ossos de color blau i estan al terra, al nivell 3.
+- La interfície d'usuari durant els nivells té els mateixos components que la del Night Knight original, amb una
+estètica diferent.
+- Totes les tecles per a saltar contingut demanades, a més de la tecla 'H', que fa aparèixer el cor.
+- Música per a cadascuna de les pantalles(gameover inclosa), a més d'altres efectes sonors quan 
+s'interactua(canviar la selecció al menú principal, prèmer ENTER, caminar per les pantalles, agafar cadascun 
+dels items, efectes per a cadascun dels enemics quan fan certes accions, efecte quan el player rep un hit, 
+efecte quan el player mor, veu del personatge quan creua la porta, i un efecte quan els segons restants 
+passen a ser punts).
+- Animacions acompayandes d'efectes sonors per a totes les accions possibles.
+- Pausa abans de començar.
+----------------------------------------------INSTRUCCIONS DEL JOC----------------------------------------------
+Controls: 
+	- Menú principal: Fletxes de direcció UP i DOWN per a navegar entre les opcions, i ENTER per a acceptar.
+	- In-game: Fletxes de direcció LEFT i RIGHT per a moure's, i UP per a saltar. En qualsevol moment
+	es pot saltar al nivell 1 amb la tecla '1', al 2 amb la tecla '2', i al 3 amb la tecla '3'.
+
+Descripcions de les entitats del joc:
+	- Player: el controla el jugador i es mou de la manera descrita als controls.
+	- Porta: necessària per a passar d'un nivell al següent, la porta s'obre només quan s'ha agafat la clau.
+	- Clau: apareix quan es trepitjen totes les tiles del mapa(van acompanyades d'un efecte visual si estan
+	trepitjades), o quan es prem la tecla 'K'.
+	- Gemma: apareix un cop per nivell passat un cert temps, i otorga al jugador 100 punts.
+	- Stopwatch: apareix un cop per nivell passat un cert temps, i pausa els enemics durant 3 segons. Els
+	enemics, però, segueixen fent mal al jugador si es col·lisiona.
+	- Cor: apareix un cop per nivell passat un cert temps(o quan es prem la tecla 'H'), i li 
+	otorga al jugador una vida extra.
+	- Esquelet: apareix al principi del nivell i camina d'esquerra a dreta. És l'enemic més bàsic.
+	- Bola: apareix al principi del nivell i s'arrossega d'esquerra a dreta, caient a les plataformes de a
+	sota. Quan ja és al fons del nivell, torna a reaparèixer a la seva posició inicial. La bola reverteix
+	l'estat de les tiles (de trepitjades a NO trepitjades) quan passa per a sobre.
+	- Vampir: apareix al principi del nivell. Quan està en estat normal, actúa com l'esquelet. De sobte,
+	es transforma, i comença a volar en diagonals fins que es torna a transformar.
+
+----------------------------------------------------------------------------------------------------------------
