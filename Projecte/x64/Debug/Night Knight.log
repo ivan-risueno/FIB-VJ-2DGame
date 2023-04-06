@@ -1,0 +1,41 @@
+﻿  Vampire.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\vampire.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  TileMap.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\tilemap.h(5): fatal error C1083: No se puede abrir el archivo incluir: 'glm/glm.hpp': No such file or directory
+  TexturedQuad.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\texturedquad.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Texture.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\texture.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'SOIL.h': No such file or directory
+  Sprite.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\sprite.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Sound.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\sound.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'irrKlang.h': No such file or directory
+  Skeleton.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\skeleton.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  ShaderProgram.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\shaderprogram.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/type_ptr.hpp': No such file or directory
+  Shader.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\shader.h(6): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Scoreboard.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\scoreboard.h(5): fatal error C1083: No se puede abrir el archivo incluir: 'glm/glm.hpp': No such file or directory
+  Scene.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\scene.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  Player.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\player.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  MainMenu.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\mainmenu.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  main.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\main.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Level.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\level.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  Item.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\item.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Game.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\game.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Enemy.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\enemy.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Door.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\door.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Bola.cpp
+c:\users\ivanr\desktop\ivanrisuenomartin\projecte\bola.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Generando código...

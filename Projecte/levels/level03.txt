@@ -1,0 +1,34 @@
+TILEMAP
+32 29 							-- Size of tile map in tiles
+16 16 							-- Tile size & block size
+images/tilesets/tileset03.png 	-- Tilesheet
+11 5 							-- Number of tiles in tilesheet
+11111111111111111111111111111111
+1                              1
+1                              1
+1                              1
+1                              1
+1                              1
+1       RRRRRRRRRRRRRRRR       1
+1             9999             1
+1             9999             1
+1             9999             1
+1     RRRRRRRR9999RRRRRRRR     1
+1             9999             1
+1             9999             1
+1             9999             1
+1   RRURSRRURR9999RRRTRRVVRT   1
+1                              1
+1                              1
+1                              1
+1   RURRR              RRRTR   1
+1                              1
+1                              1
+1                              1
+1   SU                    UR   1
+1                              1
+1                              1
+1                              1
+1RRRRRRRRRR          RRRRRRRRRR1
+11111111111          11111111111
+11111111111111111111111111111111

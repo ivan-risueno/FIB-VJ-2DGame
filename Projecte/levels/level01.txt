@@ -1,0 +1,35 @@
+TILEMAP
+32 30 							-- Size of tile map in tiles
+16 16 							-- Tile size & block size
+images/tilesets/tilesetGrietas.png 	-- Tilesheet
+11 5 							-- Number of tiles in tilesheet
+9:;678678678678678678678678679:;
+DEFABCABCABCABCABCABCABCABCABDEF
+9:;LMNLMNLMNLMNLMNLMNLMNLMNLM9:;
+DEF                          DEF
+9:;                          9:;
+DEF                          DEF
+9:;                          9:;
+DEF                          DEF
+9:;RSTUVWXY          RSTUVWXY9:;
+DEF                          DEF
+9:;                          9:;
+DEF                          DEF
+9:;       RSTTUUUVWWXY       9:;
+DEF                          DEF
+9:;                          9:;
+DEF                          DEF
+9:;RSTUVWXY          RSTUVWXY9:;
+DEF                          DEF
+9:;                          9:;
+DEF                          DEF
+9:;      RSSTTUUUVWWXXY      9:;
+DEF                          DEF
+9:;                          9:;
+DEF                          DEF
+9:;RSXY                  RSXY9:;
+DEF                          DEF
+9:;                          9:;
+DEF                          DEF
+9:;123412341234123412341234129:;
+DEF<=>?<=>?<=>?<=>?<=>?<=>?<=DEF
